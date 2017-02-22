@@ -1,5 +1,5 @@
 # Assignment-3.6
-1) Can you overload a method with same return type.? Explain your answer with proper logic.
+1)Can you overload a method with same return type.? Explain your answer with proper logic.
 Ans:  Yes,we can overload a method with same return type. Here two methods with
    same name are created and return type of both is string we have succesfully 
    overloaded the methods with same return type.
@@ -23,8 +23,8 @@ Ans:  Yes,we can overload a method with same return type. Here two methods with
 		
 		String a = sc.nextLine();
 		String b= sc.nextLine();
-		String c="Angel";
-		System.out.println("String");
+		String c="Khan";
+		System.out.println("Miss");
 		System.out.println(string(a,b)); //2 String as input
 		System.out.println(string(c));   //1 String as input
 		}
